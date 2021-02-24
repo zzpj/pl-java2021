@@ -12,7 +12,7 @@
 ### Ramowy plan zajęć: 
 Lp | Temat | Data | Prowadzący | Uwagi
 --- | --- | --- | --- | --- 
-1 | Wprowadzenie/Git/Maven | 2.03 | ? | -
+1 | Wprowadzenie/Git/Maven | 2.03 | ZN+MD | -
 2 | Clean code + SOLID | 9.03 | ? | -
 3 | IntelliJ | 16.03 | ? | -
 4 | Functional programming + Refactor to Java8+ | 23.03 | ? | -
@@ -37,12 +37,13 @@ Lp | Temat | Data | Prowadzący | Uwagi
   - Clean code
   - Programowanie funkcyjne
   - Wzorce projektowe
-  - Użycie dodatkowych funkcjonalności spoza prezentowanych tematów
+  - Użycie dodatkowych funkcjonalności spoza prezentowanych tematów (przykład: integracja z rozwiązaniem chmurowym np. deployment na publicznej chmurze)
   - Integracja z zewnętrznym zasobem po REST
+  - Aktywność w realizacji projektu (PR, commity, githubowy pulse, board projektowy)
   - ...
   - *UI, UX nie mają znaczenia!*
+  - *Unikać typowych aplikacji CRUD*
 - Indywidualna odpowiedź ustna (30% oceny)
-- Obecność i brak spóźnień
 - Aktywność i realizacja zadań z prezentowanego tematu (+0.5 do oceny końcowej)
 
 
