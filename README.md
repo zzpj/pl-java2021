@@ -25,7 +25,7 @@ Lp | Temat | Data | Prowadzący | Uwagi
 11 | Middle project check | 18.05 | ZN+MD |
 12 | Microservice | 25.05 | ZN |
 13 | Generics | 1.06 | ? |
-14 | RxJava | 8.06 | ? |
+14 | RxJava | 8.06 | MD |
 15 | Final project check | 15.06 | ZN+MD |
 
 
