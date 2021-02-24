@@ -12,7 +12,7 @@
 ### Ramowy plan zajęć: 
 Lp | Temat | Data | Prowadzący | Uwagi
 --- | --- | --- | --- | --- 
-1 | Wprowadzenie/Git/Maven | 2.03 | ZN+MD | -
+1 | Wprowadzenie/Git/Travis/Maven | 2.03 | ZN+MD | -
 2 | Clean code + SOLID | 9.03 | ? | -
 3 | IntelliJ | 16.03 | ? | -
 4 | Functional programming + Refactor to Java8+ | 23.03 | ? | -
@@ -25,7 +25,7 @@ Lp | Temat | Data | Prowadzący | Uwagi
 11 | Middle project check | 18.05 | ZN+MD |
 12 | Microservice | 25.05 | ZN |
 13 | Generics | 1.06 | ? |
-14 | RxJava | 8.06 | MD |
+14 | RxJava | 8.06 | ? |
 15 | Final project check | 15.06 | ZN+MD |
 
 
@@ -45,7 +45,3 @@ Lp | Temat | Data | Prowadzący | Uwagi
   - *Unikać typowych aplikacji CRUD*
 - Indywidualna odpowiedź ustna (30% oceny)
 - Aktywność i realizacja zadań z prezentowanego tematu (+0.5 do oceny końcowej)
-
-
-
-.
