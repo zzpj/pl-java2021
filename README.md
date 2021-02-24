@@ -4,7 +4,6 @@
 - Michal Dubel (Michal.Dubel@ttpsc.pl)
 - Zbyszko Natkanski (ZbyszkoNatkanski@gmail.com)
 
-
 ### Organizacja zajęć:
 - Krótki wykład – przedstawienie problemu, rozwiązania lub technologii
 - Live coding
@@ -17,16 +16,16 @@ Lp | Temat | Data | Prowadzący | Uwagi
 2 | Clean code + SOLID | 9.03 | ? | -
 3 | IntelliJ | 16.03 | ? | -
 4 | Functional programming + Refactor to Java8+ | 23.03 | ? | -
-5 | Project concept | 30.03 | ? | -
-6 | Spring 1 | 13.04 |  PG+MK | ferie wiosenne
-7 | Spring 2 | 20.04 |  PG+MK | -
-8 | JUnit + AssertJ | 27.04  | PD | -
-9 | Mockito (+ Spock i ew. testy mutacyjne) | 4.05 | MG | -
-10 | Design Patterns | 11.05 | MG |
+5 | Project concept | 30.03 | ZN+MD | -
+6 | Spring 1 | 13.04 | ? | -
+7 | Spring 2 | 20.04 | ? | -
+8 | JUnit + AssertJ | 27.04  | ? | -
+9 | Mockito (+ Spock i ew. testy mutacyjne) | 4.05 | ? | -
+10 | Design Patterns | 11.05 | ? |
 11 | Middle project check | 18.05 | ZN+MD |
 12 | Microservice | 25.05 | ZN |
-13 | Generics | 1.06 | PD |
-14 | RxJava | 8.06 | MD |
+13 | Generics | 1.06 | ? |
+14 | RxJava | 8.06 | ? |
 15 | Final project check | 15.06 | ZN+MD |
 
 
