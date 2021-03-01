@@ -1,8 +1,8 @@
 ## Kontener prezentacji dla przedmiotu Zaawansowane Zagadnienia Programowania w Javie - Edycja 2021
 
 ### Prowadzący 
-- Michal Dubel (Michal.Dubel@ttpsc.pl)
-- Zbyszko Natkanski (ZbyszkoNatkanski@gmail.com)
+- Michal Dubel (Michal.Dubel@ttpsc.pl & michal.dubel.500@guest.p.lodz.pl)
+- Zbyszko Natkanski (ZbyszkoNatkanski@gmail.com & zbyszko.natkanski.500@guest.p.lodz.pl)
 
 ### Organizacja zajęć:
 - Krótki wykład – przedstawienie problemu, rozwiązania lub technologii
