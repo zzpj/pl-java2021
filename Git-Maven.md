@@ -4,7 +4,7 @@
 - Install one of the newest Java (JDK 13/14/15): [jdk-link](https://www.oracle.com/java/technologies/javase-downloads.html)
 - Set environment variable: *JAVA_HOME* in your operating system
 - Using command line or terminal, type: *java -version*
-- ![](https://github.com/zzpj/pl-java2021/blob/master/java_config_13.jpg "jdk13 windows")
+- ![](https://github.com/zzpj/pl-java2021/blob/main/java_config_13.jpg "jdk13 windows")
 
 **Task 2 - Git**
 - Github account creation: [sign up](https://github.com/)
@@ -48,7 +48,7 @@
 - First `dev` profile is for developing purposes and reads `config.dev.properties` file 
 - Second `prod` profile is for release purpose and reads `config.prod.properties` file
 - Third properties file should be named: `config.properties`
-    - All useful code snippets could be found [here](https://github.com/zzpj/pl-java2021/blob/master/maven-helpful-snippets.md) 
+    - All useful code snippets could be found [here](https://github.com/zzpj/pl-java2021/blob/main/maven-helpful-snippets.md) 
 
 
 
