@@ -6,10 +6,14 @@
 - Using command line or terminal, type: *java -version*
 - ![](https://github.com/zzpj/pl-java2021/blob/main/java_config_13.jpg "jdk13 windows")
 - ![](https://github.com/zzpj/pl-java2021/blob/main/java_config_14_unix.jpg "jdk14 ubuntu")
+- Manage SDK (including JDK) like a pro - using https://sdkman.io/
 
 **Task 2 - Git**
 - Github account creation: [sign up](https://github.com/)
 - Git familiarization: [learn git branching](https://learngitbranching.js.org/)
+- Enable Travis CI on Your project
+- Configure Dependabot
+- Interesting GIT aliases - https://github.com/jakubnabrdalik/gitkurwa
 
 **Task 3 - IDE**
 - If you do not have Integrated Development Environment (IDE), it is a perfect time to install!
