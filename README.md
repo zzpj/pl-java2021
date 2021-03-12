@@ -14,8 +14,8 @@ Lp | Temat | Data | Prowadzący | Uwagi
 --- | --- | --- | --- | --- 
 1 | Wprowadzenie/Git/Travis/Maven | 2.03 | ZN+MD | [Zadania do wykonania](https://github.com/zzpj/pl-java2021/blob/main/Git-Maven.md)<br/>[Nagranie](https://youtu.be/soDE1Fh0CJ0)
 2 | IntelliJ | 9.03 | MD | - 
-3 | Clean code + SOLID | 16.03 | MK | -
-4 | Unit Testing (junit, assertj) | 23.03  | PD | -
+3 | Clean code + SOLID | 16.03 | ZN | -
+4 | Unit Testing (junit, assertj) + testowanie mutacyjne | 23.03  | PD + MD | -
 5 | Project concept | 30.03 | ZN+MD | -
 6 | Spring 1 | 13.04 | PG | -
 7 | Spring 2 | 20.04 | PG | -
