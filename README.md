@@ -14,7 +14,7 @@ Lp | Temat | Data | Prowadzący | Uwagi
 --- | --- | --- | --- | --- 
 1 | Wprowadzenie/Git/Travis/Maven | 2.03 | ZN+MD | [Zadania do wykonania](https://github.com/zzpj/pl-java2021/blob/main/Git-Maven.md)<br/>[Nagranie](https://youtu.be/soDE1Fh0CJ0)
 2 | IntelliJ | 9.03 | MD | Nagranie (link wkrótce) 
-3 | Clean code + SOLID | 16.03 | ZN | [Zadanie do wykonania](https://github.com/zzpj/solid2021)
+3 | Clean code + SOLID | 16.03 | ZN | [Prezentacja](https://github.com/zzpj/pl-java2021/blob/main/ZZPJ2021-clean_code_solid.pdf)<br/>[Zadanie do wykonania](https://github.com/zzpj/solid2021)
 4 | Unit Testing (junit, assertj) + testowanie mutacyjne | 23.03  | PD + MD | -
 5 | Project concept | 30.03 | ZN+MD | -
 6 | Spring 1 | 13.04 | PG | -
