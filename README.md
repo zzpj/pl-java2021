@@ -13,10 +13,10 @@
 Lp | Temat | Data | Prowadzący | Uwagi
 --- | --- | --- | --- | --- 
 1 | Wprowadzenie/Git/Travis/Maven | 2.03 | ZN+MD | [Zadania do wykonania](https://github.com/zzpj/pl-java2021/blob/main/Git-Maven.md)<br/>[Nagranie](https://youtu.be/soDE1Fh0CJ0)
-2 | IntelliJ | 9.03 | MD | Nagranie (link wkrótce) 
-3 | Clean code + SOLID | 16.03 | ZN | [Prezentacja](https://github.com/zzpj/pl-java2021/blob/main/ZZPJ2021-clean_code_solid.pdf)<br/>[Zadanie do wykonania](https://github.com/zzpj/solid2021)
-4 | Unit Testing (junit, assertj) + testowanie mutacyjne | 23.03  | PD + MD | -
-5 | Project concept | 30.03 | ZN+MD | -
+2 | IntelliJ | 9.03 | MD | [Nagranie](https://youtu.be/3ZEumd0fFR4)
+3 | Clean code + SOLID | 16.03 | ZN | [Prezentacja](https://github.com/zzpj/pl-java2021/blob/main/ZZPJ2021-clean_code_solid.pdf)<br/>[Zadanie do wykonania](https://github.com/zzpj/solid2021)<br />[Nagranie cz. 1](https://youtu.be/0U_YBx39L9c)<br />[Nagranie cz. 2](https://youtu.be/ER75sR6o4SU)
+4 | Unit Testing (junit, assertj) + testowanie mutacyjne | 23.03  | PD+MD | [Zadania do wykonania](https://github.com/zzpj/unit_testing_2021) <br />[Nagranie](https://youtu.be/MYvlDsiG8Yo)
+5 | Project concept | 30.03 | ZN+MD | Zapisy na sloty czasowe są dostępne na platformie WIKAMP
 6 | Spring 1 | 13.04 | PG | -
 7 | Spring 2 | 20.04 | PG | -
 8 | Quarkus | 27.04 | MD | -
