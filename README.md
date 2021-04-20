@@ -17,9 +17,9 @@ Lp | Temat | Data | Prowadzący | Uwagi
 3 | Clean code + SOLID | 16.03 | ZN | [Prezentacja](https://github.com/zzpj/pl-java2021/blob/main/ZZPJ2021-clean_code_solid.pdf)<br/>[Zadanie do wykonania](https://github.com/zzpj/solid2021)<br />[Nagranie cz. 1](https://youtu.be/0U_YBx39L9c)<br />[Nagranie cz. 2](https://youtu.be/ER75sR6o4SU)
 4 | Unit Testing (junit, assertj) + testowanie mutacyjne | 23.03  | PD+MD | [Prezentacja](https://github.com/zzpj/pl-java2021/blob/main/ZZPJ2021-unit_testing.pdf)<br />[Zadania do wykonania](https://github.com/zzpj/unit_testing_2021) <br />[Nagranie](https://youtu.be/MYvlDsiG8Yo)
 5 | Project concept | 30.03 | ZN+MD | Zapisy na sloty czasowe są dostępne na platformie WIKAMP
-6 | RxJava | 13.04 | MD | -
-7 | Spring 1 | 20.04 | TBD | -
-8 | Spring 2 | 27.04 | TBD | -
+6 | RxJava | 13.04 | MD | [Nagranie](https://youtu.be/tXXTioIM9x4)
+7 | Spring 1 | 20.04 | KB | [Nagranie](https://youtu.be/WiySWxSMfcE)
+8 | Spring 2 | 27.04 | KB | -
 9 | Microservices | 4.05 | ZN | -
 10 | Design Patterns | 11.05 | MG | -
 11 | Middle project check | 18.05 | ZN+MD | -
