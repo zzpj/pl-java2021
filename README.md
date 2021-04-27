@@ -23,9 +23,9 @@ Lp | Temat | Data | Prowadzący | Uwagi
 9 | Microservices | 4.05 | ZN | -
 10 | Design Patterns | 11.05 | MG | -
 11 | Middle project check | 18.05 | ZN+MD | -
-12 | Project Reactor + WebFlux | 25.05 | TBD | -
-13 | Project Loom | 1.06 | TBD | -
-14 | Mockito (+ Spock i ew. testy mutacyjne)  | 8.06 | TBD | -
+12 | Runtime & SecurityManager | 25.05 | MK | -
+13 | Refleksja | 1.06 | MK | -
+14 | Aspekty | 8.06 | TK | -
 15 | Final project check | 15.06 | ZN+MD | -
 
 
