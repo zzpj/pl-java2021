@@ -21,7 +21,7 @@ Lp | Temat | Data | Prowadzący | Uwagi
 7 | Spring 1 | 20.04 | KB | [Nagranie](https://youtu.be/WiySWxSMfcE)
 8 | Spring 2 | 27.04 | KB | [Nagranie](https://youtu.be/g2rZDT7zcf4)<br />[Repo do zadania](https://github.com/zzpj/spring2021)
 9 | Microservices | 4.05 | ZN | -
-10 | Design Patterns | 11.05 | MG | -
+10 | Design Patterns | 13.05 | MG | -
 11 | Middle project check | 18.05 | ZN+MD | -
 12 | Runtime & SecurityManager | 25.05 | MK | -
 13 | Refleksja | 1.06 | MK | -
