@@ -20,9 +20,9 @@ Lp | Temat | Data | Prowadzący | Uwagi
 6 | RxJava | 13.04 | MD | [Nagranie](https://youtu.be/tXXTioIM9x4)
 7 | Spring 1 | 20.04 | KB | [Nagranie](https://youtu.be/WiySWxSMfcE)
 8 | Spring 2 | 27.04 | KB | [Nagranie](https://youtu.be/g2rZDT7zcf4)<br />[Repo do zadania](https://github.com/zzpj/spring2021)
-9 | Microservices | 4.05 | ZN | -
-10 | Design Patterns | 13.05 | MG | -
-11 | Middle project check | 18.05 | ZN+MD | -
+9 | Microservices | 4.05 | ZN | [Nagranie](https://youtu.be/WiySWxSMfcE)
+10 | Design Patterns | 13.05 | MG | [Nagranie](https://youtu.be/YBF8zCD40g4)
+11 | Middle project check | 18.05 | ZN+MD | Zapisy na sloty czasowe są dostępne na platformie WIKAMP
 12 | Runtime & SecurityManager | 25.05 | MK | -
 13 | Refleksja | 1.06 | MK | -
 14 | Aspekty | 8.06 | TK | -
