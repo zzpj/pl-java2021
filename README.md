@@ -26,7 +26,7 @@ Lp | Temat | Data | Prowadzący | Uwagi
 12 | Runtime & SecurityManager | 25.05 | MK | -
 13 | Refleksja | 1.06 | MK | -
 14 | Aspekty | 8.06 | TK | -
-15 | Final project check | 15.06 | ZN+MD | -
+15 | Final project check | 15.06 | ZN+MD | Zapisy na sloty czasowe są dostępne na platformie WIKAMP
 
 
 ### Zaliczenie:
